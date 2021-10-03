@@ -1,0 +1,28 @@
+@charset "UTF-8";
+@import url('https://fonts.googleapis.com/css2?family=Merienda&display=swap');
+body {
+    
+    background-color: rgb(105, 238, 127);
+    font-family: verdana,  Tahoma, sans-serif;
+}
+ h1#principal {
+
+text-align: left;
+background-color: rgb(14, 9, 7);
+}
+h1 {
+text-align: center;
+color:rgb(252, 255, 252) ;
+font-family: Merienda, Arial, Helvetica, sans-serif  ;
+}
+h2 {
+text-align: left;
+color:rgb(3, 109, 20) ;
+font-family: Merienda, Arial, Helvetica, sans-serif;
+}
+.básico {
+    color: coral;
+}
+    .interme {
+        color: coral;
+    }
